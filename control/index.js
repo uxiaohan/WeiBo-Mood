@@ -1,5 +1,4 @@
-const _fs = require("fs");
-const fs = _fs.promises;
+const fs = require("fs").promises;
 const path = require("path");
 const { chatApi, chatModel, chatToken, WB_UID, BARK_TOKEN, PUSH_DEER_TOKEN } = require("../config");
 
