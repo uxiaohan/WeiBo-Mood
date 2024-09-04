@@ -1,6 +1,6 @@
 # WeiBo-Mood
 
-实时关注 Ta 的微博，并了解 Ta 动态的情绪心情，通过 Bark 进行通知的，基于 Nodejs 的 微博心情分析 脚本
+实时关注 Ta 的微博，并了解 Ta 微博动态的情绪心情，通过 Bark 进行通知的，基于 Nodejs 的 微博心情分析 脚本
 
 填写 `config.js` 配置文件 ( AI 注册地址 [点击注册](https://cloud.siliconflow.cn/i/R83F9xkI))
 
