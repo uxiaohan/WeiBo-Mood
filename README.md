@@ -23,6 +23,10 @@ module.exports = {
 };
 ```
 
+### 效果图片
+
+![微博心情分析](https://i0.wp.com/uxiaohan.github.io/v2/2024/09/1725436245.png)
+
 ### 安装依赖
 
 ```bash
